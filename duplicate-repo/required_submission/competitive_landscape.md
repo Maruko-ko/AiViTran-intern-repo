@@ -1,0 +1,8 @@
+## What makes Focus Bear different from these apps?
+Focus Bear is designed specifically for people with ADHD and Autism, nut just for general productivity. While apps like Freedom and Cold Turkey focus mainly on blocking distraction,and Tiimo or Routinery focus on habit and routine building, Focus Bear combines distraction blocking, routine guidance, and adaptive support in one place. It also integrates movement breals and well-being reminders, which is not common in other apps.
+## If I was a user, why would I choose Focus Bear over competitor?
+Because it offers both focus management and daily routine guidance in one tool, without having to switch between multiple apps. It's also tailored for neurodivergent users, which means the interface, reminders, and guidance are designed to be clear, gentke, and encouraging rather than rigid.
+## What's one feature that other apps have that Focus Bear doesn't?
+Maybe the **lockdown** modes that makes it impossible to bypass restrictions, even if the user tries to. This is useful for people who tend to override their own productivity systems.
+## Based on my research, what's one improvement I think Focus Bear could make?
+As mentioned above, Focus Bear could implement the **lockdown** mode similar to other apps. This helps users who need more strict boundaries to resist distractions, while sstill keeping Focus bEar's supportive and friendly approach.
