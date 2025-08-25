@@ -28,7 +28,7 @@ By keeping my task board up to date and ensuring that I only work on a few items
 
 **Example from practice:** On the Focus Bear Kanban board, I moved the task *“Update Internship Time Plan”* from *Backlog → In Progress* when I began working on it, and then to *Done* once I submitted the file. During our retrospective board. This showed me how tasks move through the board and how Kanban ensures feedback leads to concrete outcomes.
 ![Focus Bear Log](../../img/issue4.png)
-*Figure 1: Kanban's worlflow*
+*Figure 1: Kanban worlflow*
 
 
 **Planned improvement:** I will start breaking down larger tasks (such as *On boarding issues”*) into smaller subtasks (*“Issue 1”*, *“Issue 2”*, *“Check Unapproved tasks”*). This will make progress easier to track, prevent tasks from getting stuck in *In Progress* for too long, and help me spot bottlenecks earlier.
