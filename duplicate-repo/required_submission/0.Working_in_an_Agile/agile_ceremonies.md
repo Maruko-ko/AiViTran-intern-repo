@@ -24,7 +24,7 @@
 ### Backlog refinement
 #### Purpose
 - Ensure the backlog is up to date, prioritised, and contains items that are well defined enough to be worked on  
-- Break down large items into smaller, actionable pieces  
+- Break down large item into smaller, actionable piece  
 
 ---
 
