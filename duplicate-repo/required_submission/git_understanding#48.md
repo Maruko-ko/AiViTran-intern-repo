@@ -14,3 +14,9 @@ A good commit message is:
 ## Example of git commit and its hash
 ![Commit message](../img/issue48.png)
 *Figure1: Commit message using git log*
+## Analysis
+I reviewed the commit history of [Reacy n GitHub]:
+- **Effective examples**: Message like `fix(Scheduler): ensure postTask is called with priority` or `chore: remove deprecated APIs` are clear and follow a prefix convention.  
+- **Less effective examples**: Some early commits used vague messages such as `update` or `fix things`, which give no context.  
+
+This shows that good commit messages make large projects like React manageable, while poor ones make it harder to track changes.
