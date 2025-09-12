@@ -4,11 +4,13 @@
    npx create-react-app my-app
    cd my-app
 ```
+![configuration](../img/issue32.1.png)
 2. Installed Tailwind CSS
 ```bash
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p
 ```
+![Configuration2](../img/issue32.2.png)
 3. Configure Tailwind
 In tailwind.config.js , updated the content section to include React files:
 ```bash
