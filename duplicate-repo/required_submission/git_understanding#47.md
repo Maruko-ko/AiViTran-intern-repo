@@ -9,3 +9,5 @@ Clear and descriptive title, detailed description of what had been changed, expl
 ## What did I learn from reviewing an open-source PR?
 
 Having a good source of example to follow which may help in the up coming project. Additionally, PR is a good concept to follow for any future coding project collaborating with others.
+
+![Create Pull Request](../img/issue47.png)
